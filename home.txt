@@ -1,0 +1,7 @@
+{
+	 "class": da,
+	 "teacher": "das",
+	 "subjects": [
+{
+		 "name": "ad",		 "url": "C:/Users/sudha/Desktop/final/school/Exterior2",		 "url_f": "ad"	 }
+	 ]}

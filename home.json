@@ -1,0 +1,11 @@
+{
+	 "class": 2,
+	 "teacher": "Hemang",
+	 "subjects": [
+		{
+		 	"name": "NLP",
+			"url": "/media/sudi/A2DD-975D/Scripting/NLP",
+			"url_f": "nlp"	 
+		}
+	]
+}
